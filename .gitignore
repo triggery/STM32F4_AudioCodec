@@ -2,6 +2,7 @@
 .cproject
 .code_review_properties
 
+.settings/
 [Dd]ebug/
 
 *.o
