@@ -1,0 +1,12 @@
+
+.cproject
+.code_review_properties
+
+[Dd]ebug/
+
+*.o
+*.su
+*.bin
+*.binary
+*.elf
+*.hex
